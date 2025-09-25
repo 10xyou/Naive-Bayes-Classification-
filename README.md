@@ -1,5 +1,3 @@
-# Naive-Bayes-Classification-
-
 # Delivery Predictor - Naive Bayes Classifier (Java GUI)
 
 **Video Demo:** [Watch here](https://streamable.com/ba401l)  
